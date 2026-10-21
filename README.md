@@ -2,7 +2,7 @@
 
 Projet réalisé par **Reda Erraoui** — ENSA Agadir, filière Finance et Ingénierie Décisionnelle (2026–2027), sous l'encadrement de Pr. B. El Asri.
 
-**[Essayer le simulateur en ligne](https://redae03.github.io/#simulateur)** · **[Lire le rapport (PDF)](rapport.pdf)**
+**[Essayer le simulateur en ligne](https://redaerraoui.github.io/simulateurs/arbres.html)** · **[Lire le rapport (PDF)](rapport.pdf)**
 
 ## Problématique
 
@@ -61,4 +61,4 @@ pricing-options-arbres/
 
 ## Contact
 
-Reda Erraoui · [Portfolio](https://redae03.github.io) · redaerraouie@gmail.com
+Reda Erraoui · [Portfolio](https://redaerraoui.github.io) · redaerraouie@gmail.com
